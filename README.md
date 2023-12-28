@@ -1,2 +1,2 @@
-# whatsApp sk
-Real whatsApp
+# whatsApp clone using js
+whatsapp clone
